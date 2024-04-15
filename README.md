@@ -1,4 +1,8 @@
-### Hola Mundo, este es mi perfil de GitHub 👋
+## Hola Mundo, este es mi perfil de GitHub 👋
+### Me presento:
+Mi nombre es Nereo, soy profesor de Informática en los Alcores, me apasiona la educación y es por eso que me veis por aquí.
+Soy Ingeniero Informático y he trabajado en empresas como Orange, Nokia o Hp.
+
 
 <!--
 **JNereo/JNereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
